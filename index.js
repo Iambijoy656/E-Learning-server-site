@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     res.send("E-learning server is running");
 })
 
-
+// get All course
 app.get('/all-course', (req, res) => {
     res.send(allCourse);
 });
