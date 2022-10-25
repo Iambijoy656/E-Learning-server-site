@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "1",
+        "picture": "http://placehold.it/32x32",
+        "modules": 3,
+        "course_name": "Java Course"
+    },
+    {
+        "_id": "2",
+        "picture": "http://placehold.it/32x32",
+        "modules": 10,
+        "course_name": "Python Course"
+    },
+    {
+        "_id": "3",
+        "picture": "http://placehold.it/32x32",
+        "modules": 10,
+        "course_name": "Linux Course"
+    },
+    {
+        "_id": "4",
+        "picture": "http://placehold.it/32x32",
+        "modules": 9,
+        "course_name": "Go language Course"
+    },
+    {
+        "_id": "5",
+        "picture": "http://placehold.it/32x32",
+        "modules": 2,
+        "course_name": "c++ course"
+    },
+    {
+        "_id": "6",
+        "picture": "http://placehold.it/32x32",
+        "modules": 2,
+        "course_name": "JavaScript Courses"
+    },
+    {
+        "_id": "7",
+        "picture": "http://placehold.it/32x32",
+        "modules": 9,
+        "course_name": "React Course"
+    }
+]
