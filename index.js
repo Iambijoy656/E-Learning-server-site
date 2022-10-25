@@ -6,12 +6,18 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
+const allCourse = require('./data/allCourse.json')
 const courses = require('./data/courses.json')
-
 
 app.get('/', (req, res) => {
     res.send("E-learning server is running");
 })
+
+
+app.get('/all-course', (req, res) => {
+    res.send(allCourse);
+});
+
 
 
 app.get('/courses', (req, res) => {

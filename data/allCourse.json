@@ -1,0 +1,72 @@
+[
+    {
+        "course_id": "1",
+        "course_name": "Java Course",
+        "id": "635832b6f209072886a9cf62",
+        "price": "1,856",
+        "picture": "https://softwareengineeringdaily.com/wp-content/uploads/2020/01/Java-Debugging-Tips-881x441.jpg",
+        "modules": 25,
+        "tutor": "Joanne Burns",
+        "details": "Java is an object-oriented programming language. Sun Microsystems first released Java in the year 1995. It is popularly used for developing Java applications in data centers, laptops, cell phones, game consoles, and scientific supercomputers. There are multiple websites and applications which will not work if Java is not installed, and many more such applications and websites are being created every day. The class-based and general-purpose programming language is more reliable, fast, and secure. It was designed to reduce implementation dependencies. Read here all the details related to Java courses, scope in javascript, java syllabus, java certifications, and other related information.Java is the most used programming language and is also used as a computing platform. Here, we will discuss both Java and Javascript. So, what's the key difference. Java is an OOP programming language, whereas Javascript developed by Netscape is a scripting language and is not part of the Java platform. Both these require different plug-ins, and Javascript resides inside the HTML documents. Javascript code is all in the text, whereas java coding needs to be compiled. Furthermore, Javascript is run on a browser only, and java code creates apps that run in a virtual machine."
+    },
+    {
+        "course_id": "2",
+        "course_name": "Python Course",
+        "id": "635832b65bb373632f0a4899",
+        "price": "2,978",
+        "picture": "https://bsybeedesign.com/wp-content/uploads/2021/02/Featured-Image-1-2.jpg",
+        "modules": 29,
+        "tutor": "Gibbs Hubbard",
+        "details": "Python is a very popular and pervasive general-purpose computer coding language used in web development. Besides web development, it is also used for software development and programming. It is an easy to learn coding language for both a first-time programmer and someone who is experienced with other programming languages.Python has multiple impressive features that make it stand apart and useful for complex application development. It includes dynamic binding, dynamic typing, and high-level data structures. It is a universal language and can be extended to run code written in C or C++. Python can be used for software development, Desktop app, mobile app development, and back-end web. Furthermore, it can be used to write system scripts, perform mathematical computations, and process big data."
+    },
+    {
+        "course_id": "3",
+        "course_name": "Linux Course",
+        "id": "635832b653432b931c589a60",
+        "price": "2,113",
+        "picture": "https://i.ytimg.com/vi/CCx2WRupy1c/maxresdefault.jpg",
+        "modules": 21,
+        "tutor": "Brock Baxter",
+        "details": "Linux is an open source operating system (OS). It was designed to be similar to UNIX. The operating system connects the software and hardware parts of the system. Linux has evolved to run on a variety of hardware like supercomputers, smartphones, cars, enterprise servers, home appliances, and home desktops. In several ways, it is similar to other operating systems like Mac, Windows, iOS. It has a graphical interface, and if one can use electronic devices and computers, one can easily use Linux. It has the same types of software like photo editors, word processors, video editors, and so on. However, it is open-source software, which means the codes are free and available for everyone. It is secure, flexible and offers excellent support from user communities which include companies like Red Hat, Canonical, and SUSE. Linux is everywhere from your cars, android phones, cameras, wearables, etc. So, many people are using Linux without being aware of it. Read here about Linux certifications, Linux courses, Linux skills, Linux syllabus etc."
+    },
+    {
+        "course_id": "4",
+        "course_name": "Go language Course",
+        "id": "635832b6665b40fa5554b76d",
+        "price": "2,962",
+        "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191120185457/Golang-Tutorial-Learn-Go-Programming-Language.png",
+        "modules": 40,
+        "tutor": "Gail Guzman",
+        "details": "Go language is a programming language initially developed at Google in the year 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It is a statically-typed language having syntax similar to that of C. It provides garbage collection, type safety, dynamic-typing capability, many advanced built-in types such as variable length arrays and key-value maps. It also provides a rich standard library. The Go programming language was launched in November 2009 and is used in some of the Google's production systems.This tutorial is designed for software programmers with a need to understand the Go programming language from scratch. This tutorial will give you enough understanding on Go programming language from where you can take yourself to higher levels of expertise.Before proceeding with this tutorial, you should have a basic understanding of computer programming terminologies. If you have a good command over C, then it would be quite easy for you to understand the concepts of Go programming and move fast on the learning track."
+    },
+    {
+        "course_id": "5",
+        "course_name": "C++ course",
+        "id": "635832b62e112f73120e4cb1",
+        "price": "3,623",
+        "picture": "https://www.cdmi.in/courses@2x/c++-training-institute.jpg",
+        "modules": 35,
+        "tutor": "Shelly Jackson",
+        "details": "The general-purpose and object-oriented programming language C++ can be used to develop games, operating systems and browsers. It is compatible with the C language, which means it can compile more than 99% of C programming without changing a line of source code. However, being an OOPs programming language, it is safer and well-structured. One can easily learn the programming language from online courses and develop C++ programming skills.  There are multiple benefits of using the C++ language, it includes the different styles of programming with structure, logic and procedure of the program. Hence, it is called a multi-paradigm programming language. It treats data as an object which helps in dealing with real-world problems, and also includes concepts like inheritance, classes, polymorphism, encapsulation and data abstraction. All these make a program more reliable and increase its reusability.If you wonder if C++ is still relevant or not. Yes, it is. Many new technologies and fields are using C and C++ as primary or secondary languages. C++ is also used in developing high-performance applications like game engines and browsers. It is also used to create all low-level systems such as file systems, operating systems. Hence, C++ programming skills are relevant for many job opportunities in BPOs, MNCs, KPOs, personal and government organizations."
+    },
+    {
+        "course_id": "6",
+        "course_name": "JavaScript Courses",
+        "id": "635832b69d3f2d020b021647",
+        "price": "2,945",
+        "picture": "https://thumbs.dreamstime.com/b/d-rendering-advertising-banner-javascript-online-course-e-learning-concept-programming-language-education-172475736.jpg",
+        "modules": 37,
+        "tutor": "Fry English",
+        "details": "JavaScript is among the foremost powerful and versatile programming languages of the web. It's an open and cross-platform understood programming language used for making network-centric applications. JavaScript is incredibly straightforward to implement as a result of its integration with HTML.Java and JavaScript look similar however have completely different syntax, semantics, uses and differ greatly in design. In alternative words, JavaScript is complementary to and integrated with Java. Javascript is a very helpful language for college students and software professionals to become excellent Code Engineers.  A number of the key benefits of learning Javascript are: Javascript is the most well-liked programing language that helps develop front-end and back-end software using frameworks like jQuery, Node.JS etc. JavaScript usage is rising in mobile app development, desktop app development, and game development. This opens several opportunities as a Javascript Programmer. Because of high demand, there are nice opportunities for jobs and growth with high acquired people who grasp JavaScript."
+    },
+    {
+        "course_id": "7",
+        "course_name": "React Course",
+        "id": "635832b69d3f2d020b021647",
+        "price": "2,945",
+        "picture": "https://www.edmchicago.com/wp-content/uploads/2022/01/React-For-Frontend-Development.jpg",
+        "modules": 37,
+        "tutor": "Fry Denis",
+        "details": "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.React offers various extensions for entire application architectural support, such as Flux and React Native, beyond mere UI.Easy creation of dynamic applications: React makes it easier to create dynamic web applications because it requires less coding and offers more functionality, as opposed to JavaScript, where coding often gets complex very quickly.Improved performance: React uses Virtual DOM, thereby creating web applications faster. Virtual DOM compares the components’ previous states and updates only the items in the Real DOM that were changed, instead of updating all of the components again, as conventional web applications do. Reusable components: Components are the building blocks of any React application, and a single app usually consists of multiple components. These components have their logic and controls, and they can be reused throughout the application, which in turn dramatically reduces the application’s development time."
+    }
+]
