@@ -7,7 +7,9 @@ app.get('/', (req, res) => {
     res.send("E-learning server is running");
 })
 
-
+app.listen(port, () => {
+    console.log('Dragon News Server running on port', port);
+})
 
 
 
